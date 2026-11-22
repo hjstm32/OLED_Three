@@ -1,0 +1,18 @@
+# 构建产物
+cmake-build-*/
+build/
+
+# CLion
+.idea/
+
+# 编译中间文件
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+
+# 临时备份
+*.bak
+*.bak_*
