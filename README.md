@@ -7,7 +7,7 @@
 | 题目 | 串口和按键控制流水灯与 OLED 状态显示 |
 | 主控 | STM32F103C8T6（Blue Pill，64 KB Flash / 20 KB RAM） |
 | 开发环境 | CLion + CMake + arm-none-eabi-gcc + STM32CubeMX（HAL 库）+ OpenOCD（ST-Link） |
-| 仓库地址 | （待填写） |
+| 仓库地址 | https://github.com/hjstm32/OLED_Three |
 | 完成情况 | 必做项全部完成；选做（硬件 I²C、DMA）未做 |
 
 ## 一、参考资料和驱动来源
